@@ -1,0 +1,4 @@
+include requirements.txt README.md
+recursive-include chat *.py
+recursive-include chatbot_project *.py
+include manage.py
