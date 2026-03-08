@@ -39,7 +39,7 @@ This project implements a **terminal chat client** that uses **Django**, **Pytho
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <(https://github.com/avrulesyou/chatbot)>
 cd "python chatbot"
 
 # 2. Create and activate a virtual environment (recommended)
